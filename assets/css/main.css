@@ -856,13 +856,13 @@ section,
   padding: 60px 0;
   display: flex;
   align-items: center;
-  background: url("../img/portadab.webp") top left;
+  background: url("../img/portada.webp") top left;
   background-size: cover;
 }
 
 .hero:before {
   content: "";
-  background: color-mix(in srgb, var(--background-color), transparent 30%);
+  background: color-mix(in srgb, var(--background-color), transparent 60%);
   position: absolute;
   bottom: 0;
   top: 0;
